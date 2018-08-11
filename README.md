@@ -1,2 +1,2 @@
 # jenkins-test
-测试jenkins
+http://localhost:8081/jenkins-test/greeting?name=kyle
